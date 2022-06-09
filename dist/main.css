@@ -9602,7 +9602,8 @@ footer {
   background-color: #FCFCFC;
   padding: 5px 0;
   -webkit-transition: all 0.3s ease;
-  transition: all 0.3s ease; }
+  transition: all 0.3s ease; 
+  background-color: #DFDFE0;}
   .header-top-wrapper {
     display: -webkit-box;
     display: -webkit-flex;
@@ -9717,7 +9718,8 @@ footer {
 .header-bottom {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  padding: 15px 0; }
+  padding: 15px 0; 
+  background-color: #ffdd7e;}
   .header-bottom .main-menu {
     padding-left: 50px; }
     .header-bottom .main-menu li {
