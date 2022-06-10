@@ -10954,7 +10954,7 @@ p {
 
 footer {
   padding: 70px 0px 30px 0px;
-  background-color: #1A2224;
+  background-color: #c68989;
 }
 
 footer .newsletter-area {
@@ -10984,7 +10984,7 @@ footer .newsletter-area-button .form input {
   padding: 30px 0px 30px 30px;
   border-radius: 40px;
   border: 1px solid #989BA7;
-  background-color: #1A2224;
+  background-color: #c68989;
 }
 
 footer .newsletter-area-button .form input:focus {
@@ -11025,7 +11025,7 @@ footer .main-footer-quicklinks h6 {
 }
 
 footer .main-footer-quicklinks .quicklink {
-  margin-top: 24px;
+  margin-top: 42px;
 }
 
 footer .main-footer-quicklinks .quicklink li a {
