@@ -9721,7 +9721,7 @@ footer {
 .header-bottom {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  padding: 15px 0; 
+  padding: 0px 0; 
   background-color: #ffdd7e;}
   .header-bottom .main-menu {
     padding-left: 50px; }
